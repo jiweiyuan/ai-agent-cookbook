@@ -1,2 +1,10 @@
 # Ai Agent Cookbook
-100 days, 100 ai agents
+Anything you could with TypeScript and AI!
+
+## Plan
+- [ ] OpenAI realtime
+- [ ] Google Gemini Transcription
+- [ ] Twitter monitor
+- [ ] Twitter comment
+- [ ] Financial Assitant
+- [ ] Newsletter generator
